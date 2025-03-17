@@ -1,0 +1,5 @@
+com\mycompany\dayliapp\servlets\LogoutServlet.class
+com\mycompany\dayliapp\JakartaRestConfiguration.class
+com\mycompany\dayliapp\resources\JakartaEE11Resource.class
+com\mycompany\dayliapp\servlets\LoginServlet.class
+com\mycompany\dailyapp\utils\TestConexion.class
